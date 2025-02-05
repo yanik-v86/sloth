@@ -1,7 +1,5 @@
-# sloth
+# Sloth is ollama Report App
 This Python script uses tkinter to create a graphical application for generating reports with a local Ollama server. Users input data (name, module, work, qualities), which is sent to the server to generate a review. The app supports settings and dynamic updating of the model list.
-
-# Ollama Report App
 
 This project is a graphical application in Python that uses the `tkinter` library to create reports with the help of a local Ollama server. Users input data such as full name, module, completed work, personal qualities, work qualities, and the start/end of the report. After submitting, the data is sent to the Ollama server to generate a review, which is displayed in the app.
 
